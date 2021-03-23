@@ -32,3 +32,8 @@ often do they return to Instacart)?
 7. Are there differences in ordering habits based on a customer’s loyalty status?
 8. Are there differences in ordering habits based on a customer’s region?
 9. Is there a connection between age and family status in terms of ordering habits?
+10. What different classifications does the demographic information suggest? Age?
+Income? Certain types of goods? Family status?
+11. What differences can you find in ordering habits of different customer profiles?
+Consider the price of orders, the frequency of orders, the products customers are
+ordering, and anything else you can think of.
